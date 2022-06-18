@@ -1,6 +1,8 @@
 #include "analizator.h"
 
 
+#include "web.h"
+#include "memory.h"
 
 ANALIZATOR analizator;
 
